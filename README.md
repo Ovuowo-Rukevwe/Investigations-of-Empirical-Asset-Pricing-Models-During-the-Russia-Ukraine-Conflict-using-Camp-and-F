@@ -1,0 +1,3 @@
+# Investigations-of-Empirical-Asset-Pricing-Models-During-the-Russia-Ukraine-Conflict-using-Camp-and-Fama French 3 Model
+
+This study examines the dynamic time-frequency relationship between the Russian-Ukrainian conflict and the impact of global stock markets. In order to produce a statistical summary on the performance of stock prices in the stock market by examining their patterns and performance, a sample of stock data from Yahoo starting in January 2021 was collected for this analysis. Investors will be able to forecast the market amid significant conflicts thanks to the research on market trends. The fundamental tools for asset price modeling are CAMP and the Fama French model. Python programming is utilized for advanced statistics and hypothesis testing.
